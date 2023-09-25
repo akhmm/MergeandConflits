@@ -1,2 +1,1 @@
-# MergeandConflits
-testing merge and conflits
+"REMOTE"
